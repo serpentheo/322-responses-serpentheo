@@ -8,3 +8,8 @@ for photos:
 3. exclamation point, opening bracet, write what the thing is, closing bracet, opening parentheses, paste the path, closing parentheses
 4. commit changes
 5. you can write alt text inside parentheses in quotes
+  
+Here are my photos relating to Susan Sontag's Notes on "Camp"  
+**5.** photo one  
+**8.** photo two  
+**50.** photo three  
