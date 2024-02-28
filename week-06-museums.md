@@ -8,3 +8,4 @@ multiply marginalized disabled people (working class/poor disabled communities; 
 Our goal with this project is to archive events that have been poorly archived in the past or personal histories that would be lost as time passes. Another goal is to demonstrate the common phrase used in disability cultural spaces, "Nothing about us without us" esentially
 creating a space where individuals of all types with disabilities are included in conversations regarding histories and current events.  
   
+![Cripping the Map Flyer](People’s-History-Flyer.jpg)
